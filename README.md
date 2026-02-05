@@ -35,3 +35,15 @@ graph LR
     style B fill:#f9f,stroke:#333,stroke-width:2px
     style D fill:#ffce00,stroke:#333
     style G fill:#00c7b7,stroke:#333,color:#fff
+```
+
+## 📁 Project Structure
+- [**/final-visuals**](./final-visuals): High-fidelity campaign renders and product-hero shots.
+- [**/workflows**](./workflows): The [Sugandha.json](./workflows/Sugandha.json) ComfyUI node architecture used for IC-Light and IP-Adapter control.
+
+---
+
+## 📊 Outcomes & Skills
+- **Brand Vision:** Built a cohesive luxury identity from scratch.
+- **Technical Translation:** Converted cultural cues into specific AI prompts and parameters.
+- **Product Direction:** Created globally competitive luxury aesthetics without traditional lifestyle photography.
